@@ -28,3 +28,30 @@ header {
 .carousel-img {
     height: 20rem;
 }
+
+/* Footer */
+
+footer {
+    background-image: url(../img/footer-background.jpg);
+    height: 20rem;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.oscurecer-footer {
+    background-color: rgba(0, 0, 0, 0.66);
+}
+
+.logo-footer {
+    width: 3.5rem;
+}
+
+.logo-container {
+    background-color: #fff;
+    width: 4.3rem;
+    height: 4.3rem;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
